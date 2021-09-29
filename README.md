@@ -188,3 +188,9 @@ Day 5 Labs:
 	• Interpreting LVS results
 	• Fixing LVS errors
 
+**Tools used **
+Xschem – A schematic capture and netlisting tool.
+Ngspice – An open-source spice simulator for electronic circuits.
+Magic – A layout editor tool.
+Netgen – A tool used for LVS check.
+OpenLane Flow – It performs full ASIC implementation steps from RTL all the way down to GDSII.
