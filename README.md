@@ -32,6 +32,8 @@ Creating a SKY130 device layout in magic
 Creating a simple schematic in xschem
 Exporting a schematic to layout
 Simulating the netlist
+
+
 Day 2 Lectures: Introduction to DRC and LVS
 
 Understanding GDS format
@@ -77,6 +79,8 @@ Black-boxing
 Verification by XOR
 ECO
 XOR
+
+
 Day 2 Labs:
 
 Basic GDS:
@@ -101,6 +105,8 @@ Running netgen (on a prepared example)
 Setup for XOR
 Creating an ECO (from a prepared example)
 Running XOR
+
+
 Day 3 Lectures: Front-end and back-end DRC
 
 Back-end (metal layer) rules
@@ -149,6 +155,8 @@ Running the fill generation script
 Running the density checker script
 Checks with alternative tech files
 Catching violations by extraction
+
+
 Day 4 Lectures: Understanding PNR and physical verification
 
 OpenLANE/OpenROAD automation 
@@ -156,9 +164,12 @@ Non – Interactive mode of OpenLANE Flow
 Interactive mode of OpenLANE Flow
 Techniques To Avoid Common DRC Errors
 Techniques To Manually Fix Violations
+
 Day 4 Labs:
 
 PNR flow Using OpenLANE Demo
+
+
 Day 5 Lectures: Running LVS
 
 Generating netlists from schematic
@@ -175,6 +186,7 @@ Series/Parallel combining
 Symmetry breaking
 Interpreting results
 Fixing errors
+
 Day 5 Labs:
 
 Creating a (simple) hierarchical circuit in schematic
