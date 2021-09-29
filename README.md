@@ -189,6 +189,7 @@ Day 5 Labs:
 	• Fixing LVS errors
 
 **Tools used **
+
 Xschem – A schematic capture and netlisting tool.
 Ngspice – An open-source spice simulator for electronic circuits.
 Magic – A layout editor tool.
